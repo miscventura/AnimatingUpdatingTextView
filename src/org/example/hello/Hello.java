@@ -137,7 +137,7 @@ public class Hello extends Activity implements SurfaceHolder.Callback,
 				numbersView.setText(accValue);
 
 				TextView numbersView2 = (TextView) findViewById(R.id.numbersview2);
-				numbersView.setText(accValue2);
+				numbersView2.setText(accValue2);
 			}
 		}
 	}
